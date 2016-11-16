@@ -18,4 +18,8 @@ Could go further and add in other planets in semi-realistic orbital positions an
 ///Challenges:
 1. How to organize data. ie; Should we save the constants in a file and read them rather than declare them at the beginning? (may be easier to read)
 2. How to write odeint function with n objects in a more streamlined manner?
-3. 
+3. Test cases for collisions
+
+///Short Term Goals
+Simulate the solar system
+build 3-body system for collisions and test collisions in said system
