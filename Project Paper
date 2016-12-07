@@ -1,0 +1,5 @@
+    The problem that was tackled was creating a simulation of the solar system and simulating collisions of astronomical objects with the earth.  In order to do this we needed to understand some of the physics involved in this: attractive forces due to gravity and the orbits of the planets.  Newton's law of gravitation states that the force of attraction between two objects is directly proportional to their mass and inversely proportional to the square of the distance between them.  This results in the equation
+                            
+                                                    F = G * (m1 * m2) / r**2
+                                                                                                       
+where m1 and m2 are the masses of the objects and r is the distance measured between the two.  This equation is the foundation of what allows us to understand how to objects affect one another over a distance.  The collisions and even the orbits of the planets were described in the solution using this equation.
